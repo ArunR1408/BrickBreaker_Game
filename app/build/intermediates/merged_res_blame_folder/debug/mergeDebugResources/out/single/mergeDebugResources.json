@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation2.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation2.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-debug-29:/layout_game_over.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-31:/layout/game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_new_highest.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\new_highest.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\layout_game_over.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\layout\\game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\raw_breaking.wav.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\raw\\breaking.wav"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-debug-29:/layout_activity_main.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation5.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation5.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_looser.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\looser.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\raw_hit.wav.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\raw\\hit.wav"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation3.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation3.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\raw_miss.wav.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\raw\\miss.wav"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-debug-29:/layout-land_activity_main.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-31:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_ball.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\ball.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation1.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation1.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation6.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation6.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_restart.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\restart.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation7.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation7.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_play.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\anim_animation4.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\anim\\animation4.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_paddle.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\paddle.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-debug-29:/layout-land_game_over.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-31:/layout-land/game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\raw_game.json.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\raw\\game.json"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\drawable_brickbreaker.png.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\drawable\\brickbreaker.png"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-debug-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arun1\\.gradle\\daemon\\8.9\\com.example.brickbreaker_game.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]

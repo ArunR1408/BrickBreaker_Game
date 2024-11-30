@@ -1,0 +1,114 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.brickbreaker_game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.brickbreaker_game.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.brickbreaker_game.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:5:5-37:19
+18        android:allowBackup="true"
+18-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] C:\Users\arun1\.gradle\caches\8.9\transforms\38f67d84e234ba470211615c7ce575fe\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="true"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:8:9-54
+24        android:icon="@drawable/brickbreaker"
+24-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:9:9-46
+25        android:label="@string/app_name"
+25-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+29-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:13:9-76
+30        <activity
+30-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:15:9-27:20
+31            android:name="com.example.brickbreaker_game.MainActivity"
+31-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:16:13-41
+32            android:configChanges="orientation|screenSize"
+32-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:19:13-59
+33            android:exported="true"
+33-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:17:13-36
+34            android:screenOrientation="sensor" >
+34-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:18:13-47
+35            <intent-filter>
+35-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:20:13-23:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:21:17-69
+36-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:21:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:22:17-77
+38-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:22:27-74
+39            </intent-filter>
+40
+41            <meta-data
+41-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:24:13-26:36
+42                android:name="android.app.lib_name"
+42-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:25:17-52
+43                android:value="" />
+43-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:26:17-33
+44        </activity>
+45        <activity
+45-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:28:9-36:20
+46            android:name="com.example.brickbreaker_game.GameOver"
+46-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:29:13-37
+47            android:configChanges="orientation|screenSize"
+47-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:32:13-59
+48            android:exported="true"
+48-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:30:13-36
+49            android:screenOrientation="sensor" >
+49-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:31:13-47
+50            <meta-data
+50-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:24:13-26:36
+51                android:name="android.app.lib_name"
+51-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:25:17-52
+52                android:value="" />
+52-->C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\src\main\AndroidManifest.xml:26:17-33
+53        </activity>
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.example.brickbreaker_game.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\arun1\.gradle\caches\8.9\transforms\a3c0541f03878fef4ff02f26a38a959d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\arun1\.gradle\caches\8.9\transforms\14d5deae524c953832c5330cf5335455\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\arun1\.gradle\caches\8.9\transforms\14d5deae524c953832c5330cf5335455\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\arun1\.gradle\caches\8.9\transforms\14d5deae524c953832c5330cf5335455\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/raw_breaking.wav.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/raw/breaking.wav"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation7.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation7.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.brickbreaker_game.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation2.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation2.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_ball.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/ball.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_restart.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/restart.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation3.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation3.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_exit.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/exit.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/raw_hit.wav.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/raw/hit.wav"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/layout_game_over.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/layout/game_over.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation5.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation5.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/raw_miss.wav.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/raw/miss.wav"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_brickbreaker.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/brickbreaker.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation6.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation6.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation1.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation1.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_looser.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/looser.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/raw_game.json.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/raw/game.json"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/anim_animation4.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/anim/animation4.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_new_highest.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/new_highest.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_paddle.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/paddle.png"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaker_game.app-merged_res-30:/drawable_play.png.flat",
+        "source": "com.example.brickbreaker_game.app-main-32:/drawable/play.png"
+    }
+]

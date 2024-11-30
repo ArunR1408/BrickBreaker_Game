@@ -1,0 +1,6 @@
+com.example.brickbreaker_game.test.app-core-1.5.0-0 C:\Users\arun1\.gradle\caches\8.9\transforms\1ee5a876256142328c26b622f89692db\transformed\core-1.5.0\res
+com.example.brickbreaker_game.test.app-annotation-experimental-1.3.0-1 C:\Users\arun1\.gradle\caches\8.9\transforms\281d939eb239d116e796be4e0628e760\transformed\annotation-experimental-1.3.0\res
+com.example.brickbreaker_game.test.app-androidTest-2 C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\build\generated\res\resValues\androidTest\debug
+com.example.brickbreaker_game.test.app-mergeDebugAndroidTestResources-3 C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.brickbreaker_game.test.app-mergeDebugAndroidTestResources-4 C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.brickbreaker_game.test.app-debugAndroidTest-5 C:\Users\arun1\AndroidStudioProjects\Brick_Breaker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
